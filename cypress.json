@@ -1,0 +1,6 @@
+{
+    
+    "ignoreTestFiles" : "**/examples/*",
+    "viewportHeight" : 768,
+    "viewportWihdth" : 1024
+}
